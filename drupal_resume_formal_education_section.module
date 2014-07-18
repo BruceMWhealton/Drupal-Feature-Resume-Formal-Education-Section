@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Drupal Resume Formal Education Section feature.
+ */
+
+include_once 'drupal_resume_formal_education_section.features.inc';
